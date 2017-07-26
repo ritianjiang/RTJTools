@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1498741795 source:/home/owht/mySTLS/RTJtools/RTJtools/main.cpp
+	"RTJtools.h"
+
+1498741421 /home/owht/mySTLS/RTJtools/RTJtools/RTJtools.h
+	<stdio.h>
+	<unistd.h>
+	<fstream>
+	<iostream>
+	<string>
+	<iterator>
+	<vector>
+	<map>
+	<pthread.h>
+	<stdlib.h>
+
+1498741848 source:/home/owht/mySTLS/RTJtools/RTJtools/RTJ.cpp
+	"RTJtools.h"
+
